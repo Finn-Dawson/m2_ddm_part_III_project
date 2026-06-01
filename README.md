@@ -18,7 +18,7 @@ This repository contains the computation pipeline developed to apply m2-DDM to n
     - vanishing_isoball.py : Circular flocks that vanish and reappear after T_{evap}.
 
 ## Requirements
-Both the simulations and the DDM analysis rely on GPU acceleratio, ensure you have a CUDA environment configured.
+Both the simulations and the DDM analysis rely on GPU acceleration, ensure you have a CUDA environment configured.
 
 Standard Python dependencies install via `pip`:
 `pip`:
